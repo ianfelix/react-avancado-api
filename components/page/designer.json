@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_page_designers",
+  "info": {
+    "name": "designer",
+    "icon": "pager"
+  },
+  "options": {},
+  "attributes": {
+    "designers": {
+      "collection": "author"
+    }
+  }
+}

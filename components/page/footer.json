@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_page_footers",
+  "info": {
+    "name": "footer",
+    "icon": "arrow-circle-down",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "personalLink": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.personal-link",
+      "required": true
+    }
+  }
+}

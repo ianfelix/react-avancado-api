@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_page_personal_links",
+  "info": {
+    "name": "personalLink",
+    "icon": "link"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}

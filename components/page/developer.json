@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_page_developers",
+  "info": {
+    "name": "developer",
+    "icon": "edit"
+  },
+  "options": {},
+  "attributes": {
+    "developers": {
+      "collection": "author"
+    }
+  }
+}
